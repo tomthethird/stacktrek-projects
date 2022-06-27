@@ -27,7 +27,7 @@ prize = 0
 
 play = True
 while play:
-    lives = 1 # change this for number of attempts
+    lives = 5 # change this for number of attempts
     while lives!=0:
         print(f"\nWelcome, {playername}, to the {quizname.upper()} QUIZ SHOW.")
         print("\nYou will have a question each round and will be given choices to choose from.")
